@@ -17,7 +17,7 @@ const perguntas = [
                 afirmacao: "afirmação"
             }
         ]
-    },s
+    },
     {
         enunciado: "À medida que avançamos para o futuro, nos deparamos com desafios sem precedentes. O aquecimento global continua a acelerar, desencadeando eventos climáticos extremos e ameaçando a estabilidade dos ecossistemas. Enquanto isso, os avanços na inteligência artificial e na biotecnologia levantam questões éticas e morais complexas. A automação transforma o mercado de trabalho, criando desigualdades econômicas e sociais. Nesse cenário desafiador, a humanidade enfrenta uma encruzilhada, onde as escolhas que fizermos determinarão o curso do futuro.",
         alternativas: [
